@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">catalog</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <!-- Names -->
+    <string-array name="Member_names">
+        <item>Pavan D</item>
+        <item>DayaSagar</item>
+        <item>Pavan B</item>
+        <item>Maddy</item>
+        <item>Pavan H</item>
+        <item>Nikhil</item>
+    </string-array>
+
+    <!-- Pictures -->
+    <array name="profile_pics">
+        <item>@drawable/pavand_pic</item>
+        <item>@drawable/daya_pic</item>
+        <item>@drawable/pavanb_pic</item>
+        <item>@drawable/maddy_pic</item>
+        <item>@drawable/pavanh_pic</item>
+        <item>@drawable/nikhil_pic</item>
+    </array>
+
+    <!-- Status -->
+    <string-array name="statues">
+        <item>Blogging</item>
+        <item>Available</item>
+        <item>Busy</item>
+        <item>In a meeting</item>
+        <item>At work</item>
+        <item>At gym</item>
+    </string-array>
+
+    <!-- contact type -->
+    <string-array name="contactType">
+        <item>Mobile</item>
+        <item>Work</item>
+        <item>Home</item>
+        <item>Work</item>
+        <item>Mobile</item>
+        <item>Mobile</item>
+    </string-array>
+
+</resources>
